@@ -1,0 +1,5 @@
+đây là bài đầu về git
+1123
+1223
+213213
+đây là câu lệnh commit thứ 2
